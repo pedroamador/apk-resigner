@@ -7,6 +7,8 @@
 # param3, key storepass: android
 # param4, key alias: androiddebugkey
 
+# Test codereviewhub
+
 USER_HOME=$(eval echo ~${SUDO_USER})
 
 # use my debug key default
